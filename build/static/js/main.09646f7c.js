@@ -11519,7 +11519,7 @@
       let { children: t } = e;
       return (0, vt.jsx)("div", { className: "grid-container", children: t });
     },
-    St = "http://13.61.25.98:5000",
+    St = "http://13.61.25.98:5000/tasks",
     Et = () => {
       const [e, t] = (0, a.useState)([]),
         n = async () => {
